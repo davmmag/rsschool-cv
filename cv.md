@@ -9,3 +9,16 @@ A person with a desire to improve, learn technologies and become a Front-end dev
 ---
  - Github: [davmmag](https://github.com/davmmag)
  - Telegram: [davmman](https://t.me/davmmag)
+
+
+## Technical Skills:
+- HTML, CSS
+- CSS Preprocessors (SASS, SCSS)
+- Gulp
+- Git / Github
+- JavaScript
+- Figma
+
+## Languages:
+- English level - Pre-Intermediate(A2)
+- Russian level - Native
